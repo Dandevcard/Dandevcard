@@ -52,7 +52,7 @@
 <br>
 <br>
 
-[Snake animation]
+![Snake animation]
 (https://github.com/Dandevcard/Dandevcard/blob/output/github-contribuition-grid-snake.svg)
 
 
