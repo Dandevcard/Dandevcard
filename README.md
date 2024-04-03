@@ -1,4 +1,4 @@
-<img align="right"  height="590em"   src="https://raw.githubusercontent.com/gist/Dandevcard/5cf3c12e211d4f09459e5a2b6bfdaaf3/raw/c32ddbc13e8d11216df78af8da0fe0380a017d72/githubcard.svg"/>
+<img align="right"  height="590em"   src="https://raw.githubusercontent.com/gist/Dandevcard/3c75accf19db2b901f000569ace93662/raw/70c4a6e77a8485ba746971c66f3344942011934c/githubcard2.svg"/>
 <h1 align="left"> Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Meu nome é Daniel Cardoso</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dandevcard&color=yellow" alt="Profile views" /> </p>
 
