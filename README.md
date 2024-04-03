@@ -25,14 +25,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=dandevcard&show_icons=true&theme=vision-friendly-dark" alt="daniel stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandevcard&layout=compact&theme=vision-friendly-dark" alt="Daniel's most languages"/>
-</p>
-
-<br>
-
 ## Contact
 
 <p align="left" style="background:yellow">
@@ -49,6 +41,15 @@
  <img align="center" src="https://img.shields.io/badge/-Daniel_Cardoso-05122A?style=flat&logo=facebook" alt="github"/>
 </a>
 </p>
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=dandevcard&show_icons=true&theme=vision-friendly-dark" alt="daniel stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandevcard&layout=compact&theme=vision-friendly-dark" alt="Daniel's most languages"/>
+</p>
+
+<br>
+
+
 <br>
 
 
