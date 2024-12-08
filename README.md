@@ -8,7 +8,7 @@
 
 - ▶️  Avançando em Next
 
-- 👨‍💻 Bom conhecimento em: Html, css e Js, React, Next, Shadcn ui, Tailwind.
+- 👨‍💻 Bom conhecimento em: Html, css e JavaScript, TypeScript React, Next, Shadcn ui, Tailwind.
 
 - 💬 Pronomes: Ele/Dele
 
