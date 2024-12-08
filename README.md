@@ -4,11 +4,11 @@
 
 - 🔥 Desenvolvedor Web em andamento
 
-- 🔭 Buscando o primeiro emprego
+- 🔭 Buscando mais um desafio!
 
-- ▶️  Estudando React
+- ▶️  Avançando em Next
 
-- 👨‍💻 Bom conhecimento em: Html, css e Js
+- 👨‍💻 Bom conhecimento em: Html, css e Js, React, Next, Shadcn ui, Tailwind.
 
 - 💬 Pronomes: Ele/Dele
 
