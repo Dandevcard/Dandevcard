@@ -2,11 +2,11 @@
 <h1 align="left"> Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Meu nome é Daniel Cardoso</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dandevcard&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Web em andamento
+- 🔥 Desenvolvedor Full-Stack em andamento
 
 - 🔭 Buscando mais um desafio!
 
-- ▶️  Avançando em Next
+- ▶️  Avançando em Next, Node e SQL
 
 - 👨‍💻 Bons conhecimentos em: Html, css e JavaScript, TypeScript React, Next, Shadcn ui, Tailwind.
 
