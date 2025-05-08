@@ -25,7 +25,6 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)](https://www.mysql.com/)
 [![ShadCN](https://img.shields.io/badge/-ShadCN-111827?style=flat&logo=tailwindcss)](https://ui.shadcn.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
