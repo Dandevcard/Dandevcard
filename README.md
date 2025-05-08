@@ -29,13 +29,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 <br>
-<br>
 Entre em Contato comigo!
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/daniel-cardoso-de-loiola-799a97300/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-daniel_kard-05122A?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-
 <a href="https://www.instagram.com/daniel_kard/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-daniel_kard-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
@@ -46,8 +44,6 @@ Entre em Contato comigo!
  <img align="center" src="https://img.shields.io/badge/-Daniel_Cardoso-05122A?style=flat&logo=facebook" alt="github"/>
 </a>
 </p>
-<br>
-
 <div align="start" >
   <img src="https://github-readme-stats.vercel.app/api?username=dandevcard&show_icons=true&theme=vision-friendly-dark" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandevcard&layout=compact&theme=vision-friendly-dark" width="360"/>
