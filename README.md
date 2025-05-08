@@ -48,16 +48,11 @@ Entre em Contato comigo!
 </p>
 <br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dandevcard&show_icons=true&theme=vision-friendly-dark" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandevcard&layout=compact&theme=vision-friendly-dark" width="350"/>
-    </td>
-  </tr>
-</table>
+<div align="start" >
+  <img src="https://github-readme-stats.vercel.app/api?username=dandevcard&show_icons=true&theme=vision-friendly-dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandevcard&layout=compact&theme=vision-friendly-dark" width="360"/>
+</div>
+
 
 
 
